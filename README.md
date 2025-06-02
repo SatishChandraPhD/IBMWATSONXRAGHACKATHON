@@ -1,2 +1,2 @@
-# IBM WATSONX RAG HACKATHON
+# IBM Watsonx.ai and RAG Hackathon  
 IBM Watsonx.ai and RAG Hackathon  
